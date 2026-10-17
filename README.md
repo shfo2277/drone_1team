@@ -70,4 +70,3 @@ PX4 SITL + Gazebo Classic 시뮬레이션에서 ROS 2로 구현했습니다.
 └── 최종.webm                        # 시연 영상 원본
 ```
 
-`src/planning/src/`의 `planning copy*.cpp`, `planning_회피만*.cpp`는 실험용 사본이며 빌드에는 `planning.cpp`만 사용됩니다.
